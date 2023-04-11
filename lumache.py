@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+1114 Scouting Platform - An app that assists with FRC scouting.
 """
 
 __version__ = "0.1.0"
