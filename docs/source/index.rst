@@ -1,17 +1,16 @@
-Welcome to Lumache's documentation!
+Welcome to the Team 1114 Scouting Platform Documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
+**1114 Scouting Platform** is an FRC scouting app that is publicly available for any
+FRC team to use. This app is made with the help of a dart framwork called Flutter (/Fluh-tr/)
+and with the help of various other packages and dependencies found within the Flutter pub website.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
+If for any reason you have any questions, feel free to email me. If you have any issues, please open a Github issue.
 
 .. note::
 
-   This project is under active development.
+   This mobile application is still under development. Nothing is final and is subject to changes.
 
 Contents
 --------
