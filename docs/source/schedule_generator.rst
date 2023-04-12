@@ -1,4 +1,4 @@
-Schedule Scrapper
+Schedule Generator
 ===
 
 Coming soon!
