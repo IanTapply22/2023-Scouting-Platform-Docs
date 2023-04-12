@@ -20,4 +20,4 @@ Contents
 .. toctree::
 
    usage
-   schedule_generator
+   schedule generator
