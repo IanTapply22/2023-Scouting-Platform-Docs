@@ -1,4 +1,4 @@
-Schedule Generator
+Schedule_Generator
 ===
 
 Coming soon!
