@@ -3,5 +3,5 @@ Schedule Generator
 
 Coming soon!
 
-.. toctree::
-   :maxdepth: 2
+.. autosummary::
+   :toctree: generated
